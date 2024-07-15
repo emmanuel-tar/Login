@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06185257-72b5-48f6-95b2-28fc35f3f6e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Login.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-    </list>
+    <list default="true" id="06185257-72b5-48f6-95b2-28fc35f3f6e0" name="Changes" comment="login GUI with Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720786603186</updated>
     </task>
+    <task id="LOCAL-00001" summary="login GUI with Python">
+      <option name="closed" value="true" />
+      <created>1720792693666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720792693666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login GUI with Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="login GUI with Python" />
   </component>
 </project>
